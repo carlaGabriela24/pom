@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-06T21:16:14 BOT" name="Default suite" finished-at="2023-11-06T21:16:26 BOT" duration-ms="11615">
+    <groups>
+    </groups>
+    <test started-at="2023-11-06T21:16:14 BOT" name="Default test" finished-at="2023-11-06T21:16:26 BOT" duration-ms="11615">
+      <class name="login_Suite.TC01_Login">
+        <test-method is-config="true" signature="iniciarWebDriver()[pri:0, instance:login_Suite.TC01_Login@4052274f]" started-at="2023-11-06T21:16:14 BOT" name="iniciarWebDriver" finished-at="2023-11-06T21:16:15 BOT" duration-ms="927" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iniciarWebDriver -->
+        <test-method signature="TC_01()[pri:0, instance:login_Suite.TC01_Login@4052274f]" started-at="2023-11-06T21:16:15 BOT" name="TC_01" finished-at="2023-11-06T21:16:26 BOT" duration-ms="10649" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_01 -->
+      </class> <!-- login_Suite.TC01_Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
